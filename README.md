@@ -1,46 +1,26 @@
-<br><br><br>
-# Frederico de Souza Ramos
+### Hey there! 👋
 
-## Olá!
+I'm **Frederico**, a Full Stack Software Engineer based in **Rio de Janeiro**.
 
-Tenho 19 anos, moro no Rio de Janeiro e sou aluno de Ciência da Computação no CEFET/RJ
+My goal is simple: **to build software that creates real impact.**
 
----
+If there’s a complex problem, I’ll most likely want to architect a solution for it.
 
-## 🧠 Tecnologias e Ferramentas
+My technical foundation is strong in **.NET (C#)** and **React/TypeScript**, but I consider myself **technology-agnostic**: I use the right tool for the job. I have solid experience with architecture (DDD, layered design), infrastructure (AWS, Docker, K8s), and I’m a big fan of the JetBrains suite for development.
 
-### 💻 Linguagens
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white" />
-</p>
+I have several projects here, but I have a special affection for [WeatherForecast](https://github.com/FredericoSRamos/WeatherForecast). Even though it’s not the most complex and I’ve grown a lot since then, it’s still my favorite.
 
-### 🧩 Frameworks e Plataformas
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+Right now, I’m focused on improving distributed systems and creating fluid interfaces.
+
+📫 **Want to chat?**
+
+If you’d like to talk about code, architecture, or games, reach out:
+* [LinkedIn](https://www.linkedin.com/in/frederico-souza-ramos)
+* [Email](mailto:fredericosramos2@gmail.com)
 
 ---
 
-## 📬 Contatos
-<a href = "mailto:contato@fredericosramos2@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/frederico-de-souza-ramos"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge"></a>
+### About Me:
 
----
-
-<div align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericoSRamos&layout=compact&langs_count=7&theme=dark" />
-</div>
+* 👾 **Tryhard gamer:** I love Metroidvanias (especially the hard ones) and I’m a completionist, getting 100% in games is my thing.
+* 😁 **Joy!:** I’m naturally a happy and optimistic person. I believe a calm mind leads to better code.
