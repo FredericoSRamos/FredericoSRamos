@@ -17,10 +17,3 @@ Right now, I’m focused on improving distributed systems and creating fluid int
 If you’d like to talk about code, architecture, or games, reach out:
 * [LinkedIn](https://www.linkedin.com/in/frederico-souza-ramos)
 * [Email](mailto:fredericosramos2@gmail.com)
-
----
-
-### About Me:
-
-* 👾 **Tryhard gamer:** I love Metroidvanias (especially the hard ones) and I’m a completionist, getting 100% in games is my thing.
-* 😁 **Joy!:** I’m naturally a happy and optimistic person. I believe a calm mind leads to better code.
